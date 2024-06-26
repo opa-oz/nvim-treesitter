@@ -2098,15 +2098,6 @@ list.terraform = {
   maintainers = { "@MichaHoffmann" },
 }
 
-list.tfvars = {
-  install_info = {
-    url = "https://github.com/opa-oz/tree-sitter-tfvars",
-    files = { "src/parser.c", "src/scanner.c" },
-  },
-  filetype = "terraform-vars",
-  maintainers = { "@opa-oz" },
-}
-
 list.textproto = {
   install_info = {
     url = "https://github.com/PorterAtGoogle/tree-sitter-textproto",
@@ -2114,6 +2105,15 @@ list.textproto = {
   },
   filetype = "pbtxt",
   maintainers = { "@Porter" },
+}
+
+list.tfvars = {
+  install_info = {
+    url = "https://github.com/opa-oz/tree-sitter-tfvars",
+    files = { "src/parser.c", "src/scanner.c" },
+  },
+  filetype = "terraform-vars",
+  maintainers = { "@opa-oz" },
 }
 
 list.thrift = {
