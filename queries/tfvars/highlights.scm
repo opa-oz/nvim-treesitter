@@ -7,13 +7,13 @@
   (string_literal)
 ] @string
 
-(map (identifier) @property)
+(map 
+  (identifier) @property)
 
 [
   ":"
   "="
 ] @punctuation.delimiter
-
 
 [
   "["
@@ -29,5 +29,3 @@
 ] @constant.builtin
 
 (numeric_literal) @number
-
-
