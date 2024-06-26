@@ -7,7 +7,7 @@
   (string_literal)
 ] @string
 
-(map 
+(map
   (identifier) @property)
 
 [
@@ -20,7 +20,7 @@
   "]"
   "{"
   "}"
-]  @punctuation.bracket
+] @punctuation.bracket
 
 [
   (true)
