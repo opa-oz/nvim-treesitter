@@ -725,6 +725,9 @@
   "terraform": {
     "revision": "9e3ec9848f28d26845ba300fd73c740459b83e9b"
   },
+  "tfvars": {
+    "revision": "dbe19193dd51ccbcc4bfd5294804aa45960b4369"
+  },
   "textproto": {
     "revision": "8dacf02aa402892c91079f8577998ed5148c0496"
   },
