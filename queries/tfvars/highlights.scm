@@ -25,7 +25,8 @@
 [
   (true)
   (false)
-  (null)
-] @constant.builtin
+] @boolean
+
+(null) @constant.builtin
 
 (numeric_literal) @number
