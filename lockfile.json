@@ -464,6 +464,9 @@
   "nix": {
     "revision": "0fdada10f1f845ca9116e279ad8f5d0ca93e9949"
   },
+  "nginx": {
+    "revision": "3073c8a4fb77c34e1bc26d102c9b8ab1a84db274"
+  },
   "norg": {
     "revision": "aa1a1a7ded81a094cc3d5cb14bea6f34b86d8688"
   },
